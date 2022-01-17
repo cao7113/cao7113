@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+* 🌱 草色青青 share up here with our funny world and self-site [shareup](https://shareup.me)
+* 🔭 I’m free and looking next job recently， maybe meet you someday 😄
+* 🤔 I’m a plain man, a friend father and not bad husband
+* 💬 Ask me about golang, ruby and blockchain ...
+* 📫 Reach me at [Twitter cao7113](https://twitter.com/cao7113)
+
 <!--
 **cao7113/cao7113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

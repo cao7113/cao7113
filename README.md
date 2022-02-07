@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 * 🌱 草色青青 share up here with our funny world and self-site [shareup.me](https://shareup.me)
-* 🔭 I’m free and looking next job recently， maybe meet you someday 😄
 * 🤔 I’m a plain man, a friend father and not bad husband
+* 🔭 I’m working in blockchain development...
 * 💬 Ask me about golang, ruby, elixir and blockchain ...
 * 📫 Reach me at [Twitter cao7113](https://twitter.com/cao7113)
 

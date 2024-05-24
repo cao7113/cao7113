@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 * 🌱 草色青青 share up here with our funny world and self-site [shareup.me](https://shareup.me)
 * 🤔 I’m a plain man, a friend father and not bad husband

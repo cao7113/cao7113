@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-* 🌱 草色青青 share up here with our funny world and self-site [shareup.me](https://shareup.me)
+* 🌱 草色青青 share up here with our great world!
 * 🤔 I’m a plain man, a friend father and not bad husband
 * 🔭 I’m working in blockchain development...
 * 💬 Ask me about Elixir, Golang, Ruby, Web3 and Blockchain ...
